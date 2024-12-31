@@ -20,5 +20,5 @@
   
 ### 🚀 How to reach me
 - 📧 Email: javier.kyronn@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/kyronjavier](www.linkedin.com/in/kyronjavier)
+- 🔗 LinkedIn: www.linkedin.com/in/kyronjavier
 
