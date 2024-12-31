@@ -4,26 +4,21 @@
 
 
 ### 🔧 Technologies & Tools
-- 🖥️ `Languages`: Python 🐍
+- 🖥️ `Languages`: Python
 - ⚙️ `Frameworks`: --
-- 🛠️ `Tools`: Git, VS Code
+- 🛠️ `Tools`: Git, VS Code, PyCharm, Visual Studio
 
 
 ### 👨‍💻Currently working on
-- 🌍 A personal portfolio website to showcase my projects.
-- 🧑‍🎓 Learning JavaScript to build awesome website/web apps.
+- 🌍 A personal portfolio website to showcase my projects. (taking longer than expected)
+- 🧑‍🎓 Working on some simple project using Python.
 - 🌱 Refreshing my knowledge on few languages taught in school (PHP, C#, JavaScript, Java)
 
 
 ### Projects
-- 👷🚧
+- https://github.com/KyrnJvr/simpleToDo
   
 ### 🚀 How to reach me
 - 📧 Email: javier.kyronn@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/kyronjavier](www.linkedin.com/in/kyronjavier)
 
-
-<!--
-## 📈 GitHub Stats
-![Kyle GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyrnjvr&show_icons=true&count_private=true)
--->
