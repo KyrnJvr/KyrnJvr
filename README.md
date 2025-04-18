@@ -19,6 +19,6 @@
 - https://github.com/KyrnJvr/simpleToDo
   
 ### 🚀 How to reach me
-- 📧 Email: javier.kyronn@gmail.com
+- 📧 Email: kyrncjvr@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/kyronjavier
 
