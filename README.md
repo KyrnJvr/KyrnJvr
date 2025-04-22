@@ -4,19 +4,13 @@
 
 
 ### 🔧 Technologies & Tools
-- 🖥️ `Languages`: Python
+- 🖥️ `Languages`: Python, JS
 - ⚙️ `Frameworks`: --
 - 🛠️ `Tools`: Git, VS Code, PyCharm, Visual Studio
 
-
 ### 👨‍💻Currently working on
 - 🌍 A personal portfolio website to showcase my projects. (taking longer than expected)
-- 🧑‍🎓 Working on some simple project using Python.
-- 🌱 Refreshing my knowledge on few languages taught in school (PHP, C#, JavaScript, Java)
-
-
-### Projects
-- https://github.com/KyrnJvr/simpleToDo
+- 🧑‍🎓 A security manager application (as a school project)
   
 ### 🚀 How to reach me
 - 📧 Email: kyrncjvr@gmail.com
