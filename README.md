@@ -10,8 +10,6 @@
 
 ### 👨‍💻Currently working on
 - 🌍 A personal portfolio website to showcase my projects. (uploaded on github, soon to be hosted on pages!!)
-- 🧑‍🎓 A security manager application (as a school project)
-- ✔️ A to do list application I worked on few months ago (refactoring and adding features)
 
 ### 🚀 How to reach me
 - 📧 Email: kyrncjvr@gmail.com
