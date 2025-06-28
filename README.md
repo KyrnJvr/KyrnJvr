@@ -10,6 +10,7 @@
 
 ### 👨‍💻Currently working on
 - 🌍 A personal portfolio website to showcase my projects. (uploaded on github, soon to be hosted on pages!!)
+- ✔️ some other small projects (learning js, react to build awesome frontends)
 
 ### 🚀 How to reach me
 - 📧 Email: kyrncjvr@gmail.com
